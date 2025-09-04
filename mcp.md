@@ -12,6 +12,9 @@ MCP 采用典型的三层架构：
 - **MCP Server**：智能中枢，负责请求解析、上下文整合、工具调用和提示构建。
 - **MCP Client**：如 VS Code 插件，负责与用户交互并将请求发送到 MCP Server。
 
+
+![MCP 架构图](./mcp%20architecture.jpg)
+
 ### 架构图示意
 
 ```mermaid
