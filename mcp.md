@@ -44,6 +44,11 @@ flowchart LR
 6. **MCP Client** 将最终结果展示给用户。
 
 ---
+## Attention:
+1. **resource是面向 mcp client的**
+2. **prompts 是面向使用的用户的**
+3. **只有tools时面向 LLM 的**
+
 
 ## MCP Server 的核心特性
 
